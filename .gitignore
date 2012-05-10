@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 /web/bundles/
 /app/bootstrap*
 /app/cache/*
 /app/logs/*
 /vendor/
 /app/config/parameters.ini
+=======
+# Bootstrap
+app/bootstrap*
+
+# Symfony directories
+vendor/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+
+# Configuration files
+app/config/parameters.ini
+>>>>>>> 60c7c1dcd65bb9871f87910ad54d1d0d262b5962
